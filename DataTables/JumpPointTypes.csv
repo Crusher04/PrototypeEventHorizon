@@ -1,0 +1,10 @@
+Level,Tag,Dev Comment
+Level,Level,
+LevelSafe,Level.Safe,
+LevelStore,Level.Store,
+LevelCombat,Level.Combat,
+LevelDistress,Level.Distress,
+LevelQuest,Level.Quest,
+LevelSingularity,Level.Singularity,
+LevelHazard,Level.Hazard,
+HazardAstroidField,Level.Hazard.AstroidField,
